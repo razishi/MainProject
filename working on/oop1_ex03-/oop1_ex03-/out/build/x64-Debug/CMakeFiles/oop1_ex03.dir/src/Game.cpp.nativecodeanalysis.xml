@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\shibl\Desktop\working on\oop1_ex03-\oop1_ex03-\src\</FILEPATH>
+      <FILENAME>Game.cpp</FILENAME>
+      <LINE>135</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'sprite' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '124' of 'c:\users\shibl\desktop\working on\oop1_ex03-\oop1_ex03-\src\game.cpp'.</DESCRIPTION>
+    <FUNCTION>Game::loadMap</FUNCTION>
+    <DECORATED>?loadMap@Game@@AEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>118</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\shibl\Desktop\working on\oop1_ex03-\oop1_ex03-\src\</FILEPATH>
+        <FILENAME>Game.cpp</FILENAME>
+        <LINE>124</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
